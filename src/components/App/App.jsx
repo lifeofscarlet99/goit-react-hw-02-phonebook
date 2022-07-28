@@ -1,11 +1,11 @@
 import { Component } from 'react';
 import { nanoid } from 'nanoid';
 import { Report } from 'notiflix/build/notiflix-report-aio';
-import ContactForm from '../components/ContactsForm/ContactsForm';
-import ContactList from '../components/ContactList/ContactList';
-import Filter from '../components/Filter/Filter';
-import Message from '../components/Message/Message';
-import css from '../components/App.modules.css';
+import ContactForm from './ContactsForm/ContactsForm';
+import ContactList from './ContactList/ContactList';
+import Filter from './Filter/Filter';
+import Message from './Message/Message';
+import css from '../App/App.modules.css';
 
 class App extends Component {
   state = {
