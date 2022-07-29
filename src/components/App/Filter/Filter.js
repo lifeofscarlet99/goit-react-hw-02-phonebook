@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import css from './Filter.modules.css';
+import css from './Filter.module.css';
 
 function Filter({ filter, changeFilter }) {
   return (

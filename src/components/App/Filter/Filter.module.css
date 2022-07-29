@@ -8,7 +8,7 @@
 
 .text {
   font-weight: 600;
-  color: var(--main-text-color);
+  color: white;
   margin-bottom: 5px;
 }
 

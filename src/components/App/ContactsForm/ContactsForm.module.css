@@ -10,7 +10,7 @@
 
 .title {
   font-weight: 600;
-  color: var(--main-text-color);
+  color: white;
   margin-bottom: 5px;
 }
 
@@ -42,7 +42,7 @@
   width: 200px;
   height: 40px;
 
-  background-color: var(--accent-bg-color);
+  background-color: darkgray;
   color: var(--second-text-color);
   font-family: inherit;
   border: none;

@@ -8,7 +8,7 @@
   align-items: center;
   justify-content: center;
 
-  background-color: var(--accent-bg-color);
+  background-color: darkgray;
   color: var(--second-text-color);
 
   margin-right: 5px;
@@ -54,7 +54,7 @@
   padding: 10px;
 
   border: none;
-  background-color: #2b2b2b;
+  background-color: darkgrey;
   color: var(--second-text-color);
 
   cursor: pointer;
@@ -63,5 +63,5 @@
 
 .button:hover,
 .button:focus {
-  background-color: var(--accent-bg-color);
+  background-color: black;
 }

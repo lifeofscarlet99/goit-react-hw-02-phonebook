@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import css from './Message.modules.css';
+import css from './Message.module.css';
 
 function Message({ text }) {
   return (
